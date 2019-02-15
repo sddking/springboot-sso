@@ -1,0 +1,8 @@
+server:
+  port: 8080
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/oh_coupon
+    username: root
+    password: asp_10010
+    driver-class-name: com.mysql.jdbc.Driver
